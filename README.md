@@ -1,24 +1,22 @@
 
 
-# Student booking system
+# Study circle
+-Sabrin Saed 
+-Huda Abi
+-Ilhan Mohamed
+-Amina Adan
 
 ## Project Description
 This project is a group coursework for the module <Module Software Engineering>.
-The system allows users to view availability and make bookings for different
-types of bookable items such as study rooms, meeting rooms, and conference halls.
-The aim is to prevent double bookings and provide a easy and organised booking system.
+The system allows students who are struggling academically but cannot afford private tutors.
+At the same time other students are willing to help.
 
-## Team Members
-- Sabrin Sa
-- Huda Abi
-- Ilhan Mohamed
-- Amina Adan
 
 ## Technology Stack
 - Java
 - Docker
 - GitHub
-- (Additional tools to be added in future sprints.
+
 
 ## Running the Project
 The development environment is containerised using Docker.
